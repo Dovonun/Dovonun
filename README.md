@@ -21,7 +21,7 @@ I am working on multiple projects.<br>
 By building backends, I learned a lot about node.js, Docker, and socket.io.<br>
 There are also some projects which involve React and Next.js.
 
-<h3 align='left'>👀 How to reach me!</h3>
+<h3 align='left'>📢 How to reach me!</h3>
 <img src='https://img.shields.io/static/v1?label=Discord&message=Dovonun%232686&color=738ADB&style=for-the-badge&logo=discord&suffix=Test'>
 
 </div>
