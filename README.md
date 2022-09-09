@@ -1,9 +1,10 @@
 <div align='center'>
 
-<h1>👋 Hi, I’m Severin Reifler </h1>
+<h1>Hi 👋</h1>
 
-I am a 21-year-old System Engineer trying to get into Software.<br>
-I am learning web technologies because they are high level, can be used for private projects, are capable of almost everything, and translate into other fields. I am also interested in AI, machine learning, and developing code to run on a blockchain.
+I'm a 23-year-old DevOps Engineer trying to get more into Software.<br>
+On the side am learning web technologies because they are capable of almost everything, and translate into other fields.<br>
+In the future I want to do more with blockchain and AI.<br><br>
 
 
 <h3 align='left'>👀 I’m interested in:</h3>
