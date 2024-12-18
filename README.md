@@ -15,7 +15,7 @@ In the future, I hope to work more with cryptography or AI.<br><br>
 |:-:|:-:|:-:|:-:|:-:|
 
 <h3 align='left'> 🤹🏻‍♀️ I’m currently working on:</h3>
-my Blog
+Keyboard layout, Linux Config, Some Webstuff, and note-taking system. 
 
 <h3 align='left'>📢 How to reach me!</h3>
 <img src='https://img.shields.io/static/v1?label=Discord&message=Dovonun%232686&color=738ADB&style=for-the-badge&logo=discord&suffix=Test'>
